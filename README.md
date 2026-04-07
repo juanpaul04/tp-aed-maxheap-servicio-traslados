@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este trabajo práctico fue realizado para la materia de **Algoritmos y Estructuras de Datos (AED)**. Consiste en la implementación de un **Max Heap** utilizando un 'ArrayList', una simulación de un servicio de traslados que utiliza la estructura implementada para cumplir ciertas complejidades algorítmicas solicitadas.
+Este trabajo práctico fue realizado para la materia de **Algoritmos y Estructuras de Datos (AED)**. Consiste en la implementación de un **Max Heap** utilizando un 'ArrayList' y en una simulación de un servicio de traslados que utiliza la estructura implementada para cumplir ciertas complejidades algorítmicas solicitadas.
 
 Se incluye  **testing propio y testing por parte de los profesores**.
 
